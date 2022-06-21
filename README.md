@@ -42,3 +42,7 @@ Now for the comparison of the above two files using the AnC plugin. As shown bel
 
 ### Article Link: 
 [www.batch-man.com](https://batch-man.com/anc/)
+
+### Video Link: 
+https://www.youtube.com/watch?v=OdyTkNk62l4
+
